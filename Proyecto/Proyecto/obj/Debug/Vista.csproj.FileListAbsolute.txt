@@ -1,0 +1,10 @@
+C:\Users\jonin\Escritorio\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\jonin\Escritorio\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\jonin\Escritorio\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\jonin\Escritorio\Proyecto\Proyecto\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\jonin\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\jonin\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\jonin\Escritorio\Proyecto\Proyecto\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\jonin\Escritorio\Proyecto\Proyecto\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\jonin\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\jonin\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
