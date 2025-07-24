@@ -1,0 +1,36 @@
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\juanf\Desktop\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\juanf\Desktop\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\Desktop\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\juanf\Desktop\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\juanf\Desktop\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\juanf\Desktop\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\juanf\Desktop\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
